@@ -48,7 +48,7 @@
       "mocha": true
     }
   },
-  "repository": "devingHQ/hamal-btc-38",
+  "repository": "devingHQ/hamal-btc38",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
